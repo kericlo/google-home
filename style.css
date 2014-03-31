@@ -1,0 +1,15 @@
+#logo {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+}
+
+#search-box {
+	display: block;
+	height: auto;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
